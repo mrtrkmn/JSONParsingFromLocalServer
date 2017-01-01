@@ -40,7 +40,7 @@ if(isset($_GET["function"])){
 	}
 	
 	if($function == "addCarToDatabase"){
-		if(isset($_GET["brand"]) && isset($_GET["model"]) && isset($_GET["km"])&& isset($_GET["yil"]) ){
+		if(isset($_GET["brand"]) && isset($_GET["model"]) && isset($_GET["km"])&& isset($_GET["year"]) ){
 			$marka =$_GET["brand"];
 			$model=$_GET["model"];
 			$yil=$_GET["year"];
@@ -94,7 +94,7 @@ if(isset($_GET["function"])){
 				echo json_encode($array,JSON_UNESCAPED_UNICODE);
 			}else{
 				$array = array("result"=>$result->UNSUCCESSFUL);
-				echo json_encode($dizi,JSON_UNESCAPED_UNICODE);
+				echo json_encode($array,JSON_UNESCAPED_UNICODE);
 			}
 		}else{
 			$array = array("result"=>$result->MISSING_PARAMETER);
