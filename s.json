@@ -1,4 +1,5 @@
-{
+
+		{
 		    "questions" : [
 		        {
 		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
@@ -202,7 +203,7 @@
 		        },
 				{
 				 "question": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as"
-				    "content": [
+				    "content" : [
 				        "Letter of Credit (L/C)",
 				        "laissezfaire",
 				        "inflation",
@@ -213,7 +214,7 @@
 				{
 				  "question": "The ozone layer restricts"
 				   
-				    "content": [
+				    "content" : [
 				        "Visible light",
 				        "Infrared radiation",
 				        "X-rays and gamma rays",
@@ -224,7 +225,7 @@
 				{
 				  "question": "Fa-Hien was"
 				   
-				    "content": [
+				    "content" : [
 				        "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
 				        "the discoverer of Puerto Rico and Jamaica",
 				        "the first Buddhist pilgrim of India to visit China",
@@ -235,7 +236,7 @@
 				{
 				  "question": "What was the first university in the United States"
 				  
-				    "content": [
+				    "content" : [
 				        "Harvard",
 				        "University of Washington",
 				        "Yale",
@@ -246,7 +247,7 @@
 				{
 				 "question": "An electron volt is"
 				    
-				    "content": [
+				    "content" : [
 				        "The amount of energy it takes to move an electron through a potential difference of 1 volt",
 				        "The number of volts it takes to move an electon a meter",
 				        "The number of electrons it takes to kill a human being",
@@ -357,7 +358,7 @@
 				{
 				 "question": "Ecology deals with"
 				
-				    "content": [
+				    "content" : [
 				        "Birds",
 				        "Cell formation",
 				        "Relation between organisms and their environment",
@@ -368,7 +369,7 @@
 				{
 				  "question": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome"
 				   
-				    "content": [
+				    "content" : [
 				        "Earth's gravitational pull",
 				        "Moon's gravitational pull",
 				        "Centripetal force due to the earth's rotation",
@@ -377,7 +378,7 @@
 				   "correct": 0
 				},
 				{
-				   "question": "Leonardo da Vinci"
+				   "question" : "Leonardo da Vinci"
 				    
 				    "content": [
 				        "was a great Italian painter, sculptor and architect",
@@ -390,7 +391,7 @@
 				{
 				    "question": "Hamid Karzai was chosen president of Afghanistan in"
 				 
-				    "content": [
+				    "content" : [
 				        "2000",
 				        "2001",
 				        "2002",
@@ -401,7 +402,7 @@
 				{
 				 "question": "The headquarters of UN are situated at"
 				
-				    "content": [
+				    "content" : [
 				        "New York, USA",
 				        "Haque (Netherlands)",
 				        "Geneva",
@@ -412,7 +413,7 @@
 				{
 				   "question": "When a moving bus stops suddenly, the passenger are pushed forward because of the"
 				  
-				    "content": [
+				    "content" : [
 				        "friction between the earth and the bus",
 				        "friction between the passengers and the earth",
 				        "inertia of the passengers",
@@ -423,7 +424,7 @@
 				{
 				  "question": "When and where was hockey introduced for women in Olympics?"
 				
-				    "content": [
+				    "content" :  [
 				        "1908 at London",
 				        "1980 at Moscow",
 				        "1936 at Berlin",
@@ -434,7 +435,7 @@
 				{
 				 "question": "Lime is sometimes applied to soil in order to"
 				  
-				    "content": [
+				    "content" : [
 				        "increase the alkalinity of the soil",
 				        "increase the acidity of the soil",
 				        "restore nitrates to the soil",
@@ -455,7 +456,7 @@
 				},
 				{
 				    "correct": 1,
-				    "content": [
+				    "content" : [
 				        "Guruji",
 				        "Man of Peace",
 				        "Punjab Kesari",
